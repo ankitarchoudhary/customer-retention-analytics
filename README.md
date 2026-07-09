@@ -4,7 +4,7 @@ A behavioral analytics project analyzing 10,000 European bank customers to deter
 
 > Unified Mentor Internship Project
 
-**Live Dashboard:** _[link will be added here after deployment]_
+**Live Dashboard:** https://customer-retention-analytics-um.streamlit.app/
 
 ---
 
